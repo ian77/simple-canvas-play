@@ -7,7 +7,7 @@ https://angular.io/docs/ts/latest/quickstart.html#!#install-packages
 (see "Prerequisite: Install Node.js and npm" and "Install packages")
 
 
----- WHAT HAS BEE DONE ? ########
+---- WHAT HAS BEEN DONE ? ########
 
 This app consists in a canvas where we can draw some figures, change their dimensions, make them move and delete them.
 
@@ -33,7 +33,7 @@ of the canvas.
 To access the DB, a simple REST API should be developed that take care of "posting" a canvas and "getting" the canvas.
 
 
------ WHAT DIFFICULTIES HAS BEEN ENCOUNTERED ? #########
+----- WHAT DIFFICULTIES HAVE BEEN ENCOUNTERED ? #########
 
 The main difficulties encountered turn around the fabric wrapper, and how to use it with angular in order to detect changes on it each time they
 are applied and take therefore some action.
