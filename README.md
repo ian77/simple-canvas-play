@@ -3,6 +3,9 @@
 This app is developed using Angular 2 framework.
 
 The required environment and tools for starting this app are described in the following link : 
+https://angular.io/docs/ts/latest/quickstart.html#!#install-packages
+(see "Prerequisite: Install Node.js and npm" and "Install packages")
+
 
 ---- WHAT HAS BEE DONE ? ########
 
